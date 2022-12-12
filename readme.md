@@ -1,0 +1,1 @@
+https://rapidapi.com/stefan.skliarov/api/LeagueOfLegends
